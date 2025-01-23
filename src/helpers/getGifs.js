@@ -1,8 +1,8 @@
 export const getGifs = async( category ) => {
   
-  const apiKey = 'iGNeAiKwv78T0tAVOuAOJxanrRY336W0';
+  // const apiKey = 'iGNeAiKwv78T0tAVOuAOJxanrRY336W0';
   // const apiKey = 'P9KFYBzZOeUhMNsS45fzSnfwBGvoh3qz';
-  // const apiKey = 'pIRvOhYwpnwTNpLzuW14HyrrAR54YPVr';
+  const apiKey = 'pIRvOhYwpnwTNpLzuW14HyrrAR54YPVr';
   
 
 
