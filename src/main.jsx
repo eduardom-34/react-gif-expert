@@ -1,14 +1,14 @@
-import { StrictMode } from 'react';
+import React  from 'react';
 import { createRoot } from 'react-dom/client';
 import { GifExpertApp } from './GifExpertApp';
 import './style.css';
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>
-
+  
+  <React.StrictMode>
     <GifExpertApp />
+  </React.StrictMode>
 
-    
+    // <GifExpertApp />
 
-  </StrictMode>,
 )
