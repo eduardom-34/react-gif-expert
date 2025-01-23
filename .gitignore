@@ -1,0 +1,19 @@
+# Dependencias
+/node_modules
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos de construcción
+/build
+/dist
+
+# Archivos de depuración
+*.log
+
+# Archivos del sistema
+.DS_Store
